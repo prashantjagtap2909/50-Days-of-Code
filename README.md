@@ -1,5 +1,6 @@
 # 125-Days-of-Code
-The whole coding journey of 125 days.
+The whole coding journey of next 125 days.
+Will Start updating from 7th February
 
 
 ### [Week 1]()
