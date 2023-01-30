@@ -1,6 +1,8 @@
 # 125-Days-of-Code
 The whole coding journey of next 125 days.
-Will Start updating from 7th February
+Will Start updating from 7th February 2023
+
+It will contains C++ -> DSA -> Competitive programming
 
 
 ### [Week 1]()
