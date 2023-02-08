@@ -1,13 +1,13 @@
 # 125-Days-of-Code
 The whole coding journey of next 125 days.
-Will Start updating from 7th February 2023
+Started updating, just download it.
 
 It will contains C++ -> DSA -> Competitive programming
 
 
 ### [Week 1]()
-  - [Day 1]()
-  - [Day 2]()
+  - [[✅] Day 1 :- Introduction](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%201)
+  - [[✅] Day 2 :- Data types](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%202)
   - [Day 3]() 
   - [Day 4]()
   - [Day 5]()
