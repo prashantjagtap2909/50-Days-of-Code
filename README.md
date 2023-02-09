@@ -8,7 +8,7 @@ It will contains C++ -> DSA -> Competitive programming
 ### [Week 1]()
   - [✅ Day 1 :- Introduction](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%201)
   - [✅ Day 2 :- Data types](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%202)
-  - [Day 3]() 
+  - [✅ Day 3 :- Operator]((https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%203) 
   - [Day 4]()
   - [Day 5]()
   - [Day 6]()
