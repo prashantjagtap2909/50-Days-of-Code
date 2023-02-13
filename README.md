@@ -11,7 +11,7 @@ It will contains C++ -> DSA -> Competitive programming
   - [✅ Day 3 :- Operator](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%203) 
   - [✅ Day 4 :- Selection Statement](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%204)
   - [✅ Day 5 :- Iteration statement](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%205)
-  - [Day 6]()
+  - [✅ Day 6 :- Function](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%205)
   - [Day 7]()
 
 
