@@ -16,7 +16,7 @@ It will contains C++ -> DSA -> Competitive programming
 
 
 ### [Week 2]()
-  - [✅ Day 1 :- Pointers]((https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%207)
+  - [✅ Day 1 :- Pointers](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%207)
   - [Day 2]()
   - [Day 3]() 
   - [Day 4]()
