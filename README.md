@@ -19,7 +19,7 @@ It will contains C++ -> DSA -> Competitive programming
   - [✅ Day 1 :- Pointers](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%207)
   - [✅ Day 2 :- Array and 5 problems](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%208)
   - [✅ Day 3 :- duplicate element, merge sorted array,move element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%209)
-  - [Day 4]()
+  - [✅ Day 4 :- Common element, next permutation, array subset or not](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%210)
   - [Day 5]()
   - [Day 6]()
   - [Day 7]()
