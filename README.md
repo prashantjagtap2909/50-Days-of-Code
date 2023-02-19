@@ -21,7 +21,7 @@ It will contains C++ -> DSA -> Competitive programming
   - [✅ Day 3 :- duplicate element, merge sorted array,move element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%209)
   - [✅ Day 4 :- Common element, next permutation, array subset or not](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%210)
   - [✅ Day 5 :- Subarray with 0 sum, longest subarray, longest consecutive](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%211)
-  - [Day 6]()
+  - [✅ Day 6 :- Minimum size subarray, maximum product subarray, triplet sum](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%211)
   - [Day 7]()
 
 
