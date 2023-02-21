@@ -26,7 +26,7 @@ It will contains C++ -> DSA -> Competitive programming
 
 
 ### [Week 3]()
-  - [Day 1]()
+  - [✅ Day 1 :- Alternate posiive & negative no's , Minimum no. of jumps, count pairs of sum](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%214)
   - [Day 2]()
   - [Day 3]() 
   - [Day 4]()
