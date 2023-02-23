@@ -28,7 +28,7 @@ It will contains C++ -> DSA -> Competitive programming
 ### [Week 3]()
   - [✅ Day 1 :- Alternate posiive & negative no's , Minimum no. of jumps, count pairs of sum](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%214)
   -  [✅ Day 2 :- Kadnae's algorithm , majority element etc](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%215)
-  - [Day 3]() 
+  -  [✅ Day 3 :- Search in matrix , spiral traversal , Median of matrix](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%216)
   - [Day 4]()
   - [Day 5]()
   - [Day 6]()
