@@ -31,7 +31,7 @@ It will contains C++ -> DSA -> Competitive programming
   -  [✅ Day 3 :- Search in matrix , spiral traversal , Median of matrix](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%216)
   -  [✅ Day 4 :- Maximum 1's row , kth smallest element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%217)
   -  [✅ Day 5 :- Rotate matrix clockwise , maximumn path sum](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%218)
-  - [Day 6]()
+  -  [✅ Day 6 :- Set matrix zeroes, Transpose matrix](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%219)
   - [Day 7]()
 
 
