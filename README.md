@@ -2,7 +2,7 @@
 The whole coding journey of next 125 days.
 Started updating, just download it.
 
-It will contains C++ -> DSA -> Competitive programming
+It will contains notes and imp questions C++ -> DSA -> Competitive programming
 
 
 ### [Week 1]()
