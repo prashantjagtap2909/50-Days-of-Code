@@ -42,4 +42,10 @@ It will contains notes and imp questions C++ -> DSA -> Competitive programming
  
  ### [Week 5]()
  -  [✅ Day 1 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%222)
+ -  [✅ Day 2 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%223)
+ -  [✅ Day 3 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%224)
+ -  [✅ Day 4 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%225)
+ -  [✅ Day 5 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%226)
+ -  [✅ Day 6 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
+ 
   
