@@ -42,10 +42,15 @@ It will contains notes and imp questions C++ -> DSA -> Competitive programming
  
  ### [Week 5]()
  -  [✅ Day 1 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%222)
- -  [✅ Day 2 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%223)
- -  [✅ Day 3 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%224)
- -  [✅ Day 4 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%225)
- -  [✅ Day 5 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%226)
- -  [✅ Day 6 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
+ -  [✅ Day 2 :- Binary Search, Floor in sorted , Search insert position, Single element in sorted array](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%223)
+ -  [✅ Day 3 :-Nth root of M, Floor and ceil of number, Peak element, Square root of number, Aggressive cow, Allocate minimum number of pages](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%224)
+ -  [✅ Day 4 :-  Introduction to Linked list, Insertion in linked list, Delete node in linked list, Count nodes, Search in linked list](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%225)
+ -  [✅ Day 5 :- Introduction to Doubly Linked list, Insertion in Doubly linked list, Delete node in Doubly linked list, Reverse DLL](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%226)
+ 
+  ### [Week 5]()
+ -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
+ -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
+ -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
+
  
   
