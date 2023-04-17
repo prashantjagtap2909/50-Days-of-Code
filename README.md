@@ -51,6 +51,9 @@ It will contains notes and imp questions C++ -> DSA -> Competitive programming
  -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
  -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
  -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
+  -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%229)
+   -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%230)
+    -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%231)
 
  
   
