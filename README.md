@@ -50,10 +50,11 @@ It will contains notes and imp questions C++ -> DSA -> Competitive programming
   ### [Week 5]()
  -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
  -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
- -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
- -  [✅ Day 4 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%229)
- -  [✅ Day 5 :- Rotate  linked list, Clone linked list](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%230)
- -  [✅ Day 6 :- Implementation of stack using array,linked list , balanced parenthesis, minimum element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%231)
+ -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%229)
+ -  [✅ Day 4 :- Rotate  linked list, Clone linked list](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%230)
+ -  [✅ Day 5 :- Implementation of stack using array,linked list , balanced parenthesis, minimum element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%231)
+ -  [✅ Day 6 :- Implement queue using array, Implement queue using linked list, Implement queue using stack](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%231)
+ 
 
  
   
