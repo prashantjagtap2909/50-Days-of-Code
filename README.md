@@ -80,6 +80,7 @@ It will contains notes and imp questions C++ -> DSA -> Competitive programming
 
  ### [Week 10]()
  -  [✅ Day 1 :- DFS of graph and BFS of graph](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%249)
+ -  [✅ Day 1 :- DFS of graph and BFS of graph](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%250)
 
  
 
