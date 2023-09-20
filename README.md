@@ -1,8 +1,7 @@
-# 125-Days-of-Code [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2F125-Days-of-Code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-The whole coding journey of next 125 days.
-Started updating, just download it.
+# 50-Days-of-Code [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2F125-Days-of-Code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+The whole coding journey of 50
 
-It will contains notes and imp questions C++ -> DSA -> Competitive programming
+It will contains notes of C++ with DSA
 
 
 ### [Week 1]()
