@@ -5,12 +5,12 @@ It will contains notes of C++ and DSA question solved.
 
 
 ### [Week 1]()
-  - [✅ Day 1 :- Introduction](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%201)
-  - [✅ Day 2 :- Data types](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%202)
-  - [✅ Day 3 :- Operator](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%203) 
-  - [✅ Day 4 :- Selection Statement](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%204)
-  - [✅ Day 5 :- Iteration statement](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%205)
-  - [✅ Day 6 :- Function](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%206)
+  - [✅ Day 1 :- Introduction](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%201)
+  - [✅ Day 2 :- Data types](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%202)
+  - [✅ Day 3 :- Operator](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%203) 
+  - [✅ Day 4 :- Selection Statement](https://github.com/prashantjagtap2909/50Days-of-Code/tree/main/Days/Day%204)
+  - [✅ Day 5 :- Iteration statement](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%205)
+  - [✅ Day 6 :- Function](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%206)
   
 
 
