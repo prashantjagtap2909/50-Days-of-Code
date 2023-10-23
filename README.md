@@ -15,13 +15,13 @@ It will contains notes of C++ and DSA question solved.
 
 
 ### [Week 2]()
-  - [✅ Day 1 :- Pointers](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%207)
-  - [✅ Day 2 :- Array and 5 problems](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%208)
-  - [✅ Day 3 :- duplicate element, merge sorted array,move element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%209)
-  - [✅ Day 4 :- Common element, next permutation, array subset or not](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%210)
-  - [✅ Day 5 :- Subarray with 0 sum, longest subarray, longest consecutive](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%211)
-  - [✅ Day 6 :- Minimum size subarray, maximum product subarray, triplet sum](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%212)
-  - [✅ Day 7 :- Sort 0s,1s and 2s, median of sorted array](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%213)
+  - [✅ Day 1 :- Pointers](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%207)
+  - [✅ Day 2 :- Array and 5 problems](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%208)
+  - [✅ Day 3 :- duplicate element, merge sorted array,move element](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%209)
+  - [✅ Day 4 :- Common element, next permutation, array subset or not](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%210)
+  - [✅ Day 5 :- Subarray with 0 sum, longest subarray, longest consecutive](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%211)
+  - [✅ Day 6 :- Minimum size subarray, maximum product subarray, triplet sum](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%212)
+  - [✅ Day 7 :- Sort 0s,1s and 2s, median of sorted array](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%213)
 
 
 ### [Week 3]()
