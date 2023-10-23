@@ -71,15 +71,15 @@ It will contains notes of C++ and DSA question solved.
  -  [✅ Day 6 :- Implement queue using array, Implement queue using linked list, Implement queue using stack](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%244)
 
  ### [Week 9]()
- -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%245)
- -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%246)
- -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%247)
- -  [✅ Day 4 :- Graph and vertices & Print adjacency list](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%248)
+ -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%245)
+ -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%246)
+ -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%247)
+ -  [✅ Day 4 :- Graph and vertices & Print adjacency list](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%248)
 
 
  ### [Week 10]()
- -  [✅ Day 1 :- DFS of graph and BFS of graph](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%249)
- -  [✅ Day 2 :- DFS of graph and BFS of graph](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%250)
+ -  [✅ Day 1 :- DFS of graph and BFS of graph](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%249)
+ -  [✅ Day 2 :- DP problems](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%250)
 
  
 
