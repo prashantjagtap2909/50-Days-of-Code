@@ -27,7 +27,7 @@ It will contains notes of C++ and DSA question solved.
 ### [Week 3]()
   - [✅ Day 1 :- Alternate posiive & negative no's , Minimum no. of jumps, count pairs of sum](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%214)
   -  [✅ Day 2 :- Kadnae's algorithm , majority element etc](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%215)
-  -  [✅ Day 3 :- Search in matrix , spiral traversal , Median of matrix](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%216)
+  -  [✅ Day 3 :- Search in matrix , spiral traversal , Median of matrix](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%216)
   -  [✅ Day 4 :- Maximum 1's row , kth smallest element](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%217)
   -  [✅ Day 5 :- Rotate matrix clockwise , maximumn path sum](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%218)
   -  [✅ Day 6 :- Set matrix zeroes, Transpose matrix](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%219)
@@ -40,11 +40,11 @@ It will contains notes of C++ and DSA question solved.
  
  
  ### [Week 5]()
- -  [✅ Day 1 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%222)
- -  [✅ Day 2 :- Binary Search, Floor in sorted , Search insert position, Single element in sorted array](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%223)
- -  [✅ Day 3 :-Nth root of M, Floor and ceil of number, Peak element, Square root of number, Aggressive cow, Allocate minimum number of pages](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%224)
- -  [✅ Day 4 :-  Introduction to Linked list, Insertion in linked list, Delete node in linked list, Count nodes, Search in linked list](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%225)
- -  [✅ Day 5 :- Introduction to Doubly Linked list, Insertion in Doubly linked list, Delete node in Doubly linked list, Reverse DLL](https://github.com/prashantjagtap2909/125-Days-of-Code/blob/main/Days/Day%206/Day%206.pdf)
+ -  [✅ Day 1 :- Merge sort , quick sort](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%222)
+ -  [✅ Day 2 :- Binary Search, Floor in sorted , Search insert position, Single element in sorted array](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%223)
+ -  [✅ Day 3 :-Nth root of M, Floor and ceil of number, Peak element, Square root of number, Aggressive cow, Allocate minimum number of pages](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%224)
+ -  [✅ Day 4 :-  Introduction to Linked list, Insertion in linked list, Delete node in linked list, Count nodes, Search in linked list](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%225)
+ -  [✅ Day 5 :- Introduction to Doubly Linked list, Insertion in Doubly linked list, Delete node in Doubly linked list, Reverse DLL](https://github.com/prashantjagtap2909/50-Days-of-Code/blob/main/Days/Day%206/Day%206.pdf)
  
   ### [Week 6]()
  -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
