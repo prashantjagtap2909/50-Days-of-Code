@@ -55,12 +55,12 @@ It will contains notes of C++ and DSA question solved.
  -  [✅ Day 6 :- Implement queue using array, Implement queue using linked list, Implement queue using stack](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%232)
 
  ### [Week 7]()
- -  [✅ Day 1 :- Immediate smaller element ,Next greater element, Next greater element 2 ](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%233)
- -  [✅ Day 2 :- Number of NGEs to the right, Remove k digit, Sum of subarray range](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%234)
- -  [✅ Day 3 :- Introduction to tree, Binary tree representation, Preorder traversal, Inorder traversal, Postorder traversal](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%235)
- -  [✅ Day 4 :- Level order traversal, Height of Binary tree, Check for balanced tree](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%236)
- -  [✅ Day 5 :- Two tree identical or not, Maximum path sum from any node, Diameter of a binary tree](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%237)
- -  [✅ Day 6 :- Top view of binary tree, Left view of binary tree, Bottom view of binary tree](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%238)
+ -  [✅ Day 1 :- Immediate smaller element ,Next greater element, Next greater element 2 ](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%233)
+ -  [✅ Day 2 :- Number of NGEs to the right, Remove k digit, Sum of subarray range](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%234)
+ -  [✅ Day 3 :- Introduction to tree, Binary tree representation, Preorder traversal, Inorder traversal, Postorder traversal](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%235)
+ -  [✅ Day 4 :- Level order traversal, Height of Binary tree, Check for balanced tree](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%236)
+ -  [✅ Day 5 :- Two tree identical or not, Maximum path sum from any node, Diameter of a binary tree](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%237)
+ -  [✅ Day 6 :- Top view of binary tree, Left view of binary tree, Bottom view of binary tree](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%238)
 
  ### [Week 8]()
  -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%239)
