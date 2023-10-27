@@ -47,12 +47,12 @@ It will contains notes of C++ and DSA question solved.
  -  [✅ Day 5 :- Introduction to Doubly Linked list, Insertion in Doubly linked list, Delete node in Doubly linked list, Reverse DLL](https://github.com/prashantjagtap2909/50-Days-of-Code/blob/main/Days/Day%206/Day%206.pdf)
  
   ### [Week 6]()
- -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%227)
- -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%228)
- -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%229)
+ -  [✅ Day 1 :- Detect loop in linked list, Find length of loop](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%227)
+ -  [✅ Day 2 :- Delete middle, sort alternatively,intersection of two LL, Nth node from end](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%228)
+ -  [✅ Day 3 :- Remove duplicate in DLL, pair with given sum, Delete all occurrences of given key](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%229)
  -  [✅ Day 4 :- Rotate  linked list, Clone linked list](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%230)
- -  [✅ Day 5 :- Implementation of stack using array,linked list , balanced parenthesis, minimum element](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%231)
- -  [✅ Day 6 :- Implement queue using array, Implement queue using linked list, Implement queue using stack](https://github.com/prashantjagtap2909/125-Days-of-Code/tree/main/Days/Day%232)
+ -  [✅ Day 5 :- Implementation of stack using array,linked list , balanced parenthesis, minimum element](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%231)
+ -  [✅ Day 6 :- Implement queue using array, Implement queue using linked list, Implement queue using stack](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%232)
 
  ### [Week 7]()
  -  [✅ Day 1 :- Immediate smaller element ,Next greater element, Next greater element 2 ](https://github.com/prashantjagtap2909/50-Days-of-Code/tree/main/Days/Day%233)
